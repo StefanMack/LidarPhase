@@ -5,7 +5,7 @@ Illustration of the phase measurement method in LIDAR technology
 
 ## Lidar ToF-Abstandsmessung indirekt über die Phase
 
-Version 6.2.2019, S. Mack
+Version 6.7.2019, S. Mack
 
 Eine preiswerte und sehr genaue Messtechnik für die Lichtlaufzeitmessung ist die Phasenmessung. Dabei wird als Sender ein Dauerstrichlaser (CW-Laser) verwendet, dessen Licht intensitätsmoduliert ist. Das "Lichtecho" ist dann ebenfalls mit der gleichen Frequenz intensitätsmoduliert. Je nach Abstand (=Reichweite), d.h. Lichtlaufzeit hat das Echolicht bezüglich seiner Intensitätsmodulation einen Phasenversatz im Vergleich zum gerade emitierten Sendelicht.
 
